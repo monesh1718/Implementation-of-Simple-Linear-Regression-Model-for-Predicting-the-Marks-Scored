@@ -104,6 +104,7 @@ plt.show()
 ## Output:
 
 <img width="339" height="533" alt="Screenshot 2026-01-31 104238" src="https://github.com/user-attachments/assets/cfc3022f-d3dc-4054-b694-b8895e7d9549" />
+
 <img width="406" height="164" alt="Screenshot 2026-01-31 104719" src="https://github.com/user-attachments/assets/2f0be925-e754-4e8f-a400-2d06be45d6d4" />
 
 <img width="687" height="545" alt="hi7" src="https://github.com/user-attachments/assets/2b7e9885-d4de-4fc2-95c3-a9fbae5ff5da" />
